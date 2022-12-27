@@ -4,10 +4,9 @@
 
 ##
 
-<div align="center">
-  <tr href="https://github.com/Rrlopes07">
-    <td><img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rrlopes07&PAT1=Rrlopes07&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"></td> <td><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrlopes07&PAT1=Rrlopes07&layout=compact&langs_count=7&theme=ocean_dark"></td>
-  </tr>
+<div align="center" align-items="stretch">
+      <td><img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rrlopes07&PAT1=Rrlopes07&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"></td> 
+      <td><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrlopes07&PAT1=Rrlopes07&layout=compact&langs_count=7&theme=ocean_dark"></td>
 </div>
 
 ##
