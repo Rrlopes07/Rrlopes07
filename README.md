@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> Olá mundo! Sou Agrônomo - Estudante de TI com foco em ciência de dados</h2>
+  <h3> Olá mundo! Sou Agrônomo - Estudante de TI.</h2>
 </div>
 
   ##
