@@ -5,9 +5,12 @@
   ##
 
 <div align="center">
-  <a href="https://github.com/Rrlopes07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rrlopes07&PAT1=Rrlopes07&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrlopes07&PAT1=Rrlopes07&layout=compact&langs_count=7&theme=ocean_dark">
+<a href="https://github.com/Rrlopes07/Rrlopes07">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=rrlopes07&PAT1=rrlopes07&show_icons=true&theme=calm&include_all_commits=true&count_private=true" />
+</a>
+<a height="180em" href="https://github.com/Rrlopes07/Rrlopes07">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrlopes07&PAT1=rrlopes07&theme=calm" />
+</a>
 </div>
   
   ##
