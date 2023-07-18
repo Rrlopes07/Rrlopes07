@@ -6,10 +6,10 @@
 
 <div align="center">
 <a href="https://github.com/Rrlopes07/Rrlopes07">
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=rrlopes07&PAT1=rrlopes07&show_icons=true&theme=swift&include_all_commits=true&count_private=true" />
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=Rrlopes07&PAT1=Rrlopes07&show_icons=true&theme=swift&include_all_commits=true&count_private=true" />
 </a>
 <a height="180em" href="https://github.com/Rrlopes07/Rrlopes07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrlopes07&PAT1=rrlopes07&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrlopes07&PAT1=Rrlopes07&theme=swift" />
 </a>
 </div>
   
