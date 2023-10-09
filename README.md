@@ -9,7 +9,7 @@
   <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=Rrlopes07&PAT1=Rrlopes07&show_icons=true&theme=swift&include_all_commits=true&count_private=true" />
 </a>
 <a height="180em" href="https://github.com/Rrlopes07/Rrlopes07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrlopes07&PAT1=Rrlopes07&theme=swift&hide=html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrlopes07&PAT1=Rrlopes07&theme=swift&hide=html,css,tsql" />
 </a>
 </div>
   
